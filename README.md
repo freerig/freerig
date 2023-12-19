@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YoYomec
-- 👀 I’m interested in python language
-- 🌱 I’m currently learning python
+- 👀 I’m interested in OO languages
 
 <!---
 YoYomec/YoYomec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
